@@ -66,3 +66,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### the sources of code
+1.react offical hook tutorial
+- https://ko.reactjs.org/docs/hooks-state.html
+
+2.react offical hook API docs
+- https://ko.reactjs.org/docs/hooks-reference.html
+
+3.Dave Ceddia blog
+- [how the useContext Hook Works](https://daveceddia.com/)
+- [How to Use the useReducer Hook](https://daveceddia.com/usereducer-hook-examples/)
